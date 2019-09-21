@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mn_biodata"
+        android:title="Biodata"
+        android:icon="@mipmap/ic_account_circle"
+        app:showAsAction="never|withText"></item>
+    <item
+        android:id="@+id/mn_simpan"
+        android:title="Simpan"
+        app:showAsAction="always|withText"
+        android:icon="@mipmap/ic_add"></item>
+    <item
+        android:id="@+id/mn_kosong"
+        android:title="Kosong"
+        app:showAsAction="always|withText"
+        android:icon="@mipmap/ic_clear"></item>
+</menu>

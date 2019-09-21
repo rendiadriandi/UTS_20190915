@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS_20190915</string>
+    <string-array name="jenis_kelamin">
+        <item>Jenis Kelamin</item>
+        <item>Laki-Laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
